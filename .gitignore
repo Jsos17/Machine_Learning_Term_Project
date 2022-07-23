@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.pdf
+!Separate_term_project_report.pdf
+*.log
+*.zip
