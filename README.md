@@ -8,6 +8,6 @@ The directory *data* contains files provided by the authors of the original arti
 
 ## References
 
-[1] Fernández-Delgado, M., Cernadas, E., Barro, S., & Amorim, D. (2014a). Do We Need Hundreds of Classifiers
+[1] Fernández-Delgado, M., Cernadas, E., Barro, S., & Amorim, D. (2014). Do We Need Hundreds of Classifiers
 to Solve Real World Classification Problems? Journal of Machine Learning Research, 15 (90), 3133–3181.
 http://jmlr.org/papers/v15/delgado14a.html
