@@ -1,7 +1,7 @@
 ---
 title: "Separate Term Project"
 subtitle: "DATA11002 Introduction to Machine Learning (Autumn 2020)"
-author: "Juuso Silvennoinen"
+author: "Juuso Luhtala"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 header-includes:
 - \usepackage{pdflscape}
